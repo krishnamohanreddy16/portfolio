@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -20,7 +21,6 @@
     "nodemailer": "^7.0.3",
     "nodemon": "^3.1.10",
     "path": "^0.12.7",
-    "uuid": "^11.1.0",
-    "vercel": "^42.3.0"
+    "uuid": "^11.1.0"
   }
 }
